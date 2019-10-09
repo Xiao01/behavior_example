@@ -1,0 +1,9 @@
+<!-- 引用组件的页面模版 -->
+<view >
+  <my-component my-behavior-property="{{mbp}}" 
+  my-property="{{mp}}"
+  my-data="{{md}}"
+  my-behavior-data="{{mbd}}"
+  >
+  </my-component>
+</view>
